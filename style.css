@@ -1,0 +1,25 @@
+.nav-bg-color{
+    background-color: #f8f9fa;
+}
+.panda-bg-color{
+    background-color: #FCEAE8;
+}
+#subscribe{
+    height: 300px;
+}
+.panda-all-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.bg-categories-1{
+    background-color: orange;
+}
+.bg-categories-2{
+    background-color: orchid;
+}
+.bg-categories-3{
+    background-color: blue;
+}
